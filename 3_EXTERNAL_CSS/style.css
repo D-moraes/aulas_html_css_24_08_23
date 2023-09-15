@@ -1,3 +1,8 @@
 h1{
-    color: darkblue;
+    color: rgb(0, 0, 145);
+}
+
+p{
+    color: rgb(55, 0, 255);
+    background: rgb(230, 225, 255);
 }
