@@ -1,6 +1,11 @@
+h1{
+    color: rgb(47, 0, 255);
+    font-size: 40px;
+}
+
 h2{
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    color: rgb(0, 0, 150);
+    color: rgb(110, 0, 138);
     font-size: 35px;
 }
 
@@ -8,4 +13,9 @@ p{
     font-family: 'Courier New', Courier, monospace;
     font-size: 18px;
     line-height: 35px;
+    color: rgb(136, 0, 255);
+}
+
+.fundo-roxo{
+    background: rgb(244, 240, 255);
 }
