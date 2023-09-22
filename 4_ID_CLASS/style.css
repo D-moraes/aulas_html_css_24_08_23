@@ -1,7 +1,11 @@
-h1{
-    color: rgb(47, 0, 255);
-    font-size: 40px;
+#titulo-id{
+    color: blueviolet;
 }
+
+.cor-azul{
+    color: blue;
+}
+
 
 h2{
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -19,3 +23,18 @@ p{
 .fundo-roxo{
     background: rgb(244, 240, 255);
 }
+
+.fonte-grande{
+    font-size: 50px;
+}
+
+.palavra {
+    color: black;
+}
+
+#titulo-principal{
+    background: purple;
+    color: white;
+}
+
+/*especifidade*/
